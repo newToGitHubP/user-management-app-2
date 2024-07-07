@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "5d85",
+      "name": "Alok",
+      "role": "Member",
+      "status": "Active",
+      "email": "Alok@gmail.com",
+      "date": "2024-07-07"
+    },
+    {
+      "id": "207c",
+      "name": "Alok Sachan",
+      "role": "Admin",
+      "status": "Active",
+      "email": "Alok.sachan@gmail.com",
+      "date": "2024-07-07"
+    }
+  ]
+}
